@@ -1,0 +1,4 @@
+role_id,role_name,total_headcount,standard_hours_per_worker_month,statutory_max_overtime_hours_month,avg_hourly_base_pay_inr,overtime_multiplier,units_capacity_per_hour,hiring_lead_time_weeks,recruiting_training_cost_per_hire_inr,attrition_rate_annual_pct,critical_skill
+ROLE_STORE_FRONT,Store Customer Associates & Cashiers,170000,180,32,142.0,1.75,58.0,3,14500,21.0,"POS Billing, Customer Assistance, Shelf Replenishment"
+ROLE_WH_FULFILLMENT,"Warehouse Picking, Staging & Inbound Staff",44400,190,36,154.0,1.8,78.0,4,18000,24.0,"WMS RF Scanner, Pallet Jack, Batch Sorting, Dock Unloading"
+ROLE_LAST_MILE,Delivery Associates & Fleet Operators,53700,190,30,146.0,1.7,24.0,2,12000,32.0,"Route Navigation, Cold Box Handling, OTP Customer Verification"

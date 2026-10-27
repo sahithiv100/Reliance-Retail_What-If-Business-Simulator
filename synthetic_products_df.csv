@@ -1,0 +1,6 @@
+category_id,category_name,format,baseline_monthly_units,avg_unit_price_inr,gross_margin_pct,storage_volume_m3_per_unit,units_handled_per_staff_hour,shelf_life_days,default_lead_time_days,supplier_count,max_supplier_burst_pct,inventory_days_cover,logistics_drops_per_100_units,handling_complexity,baseline_monthly_rev_cr,baseline_cogs_cr,baseline_gross_profit_cr
+CAT_GROCERY,Grocery & Fresh Foods,Smart Bazaar / JioMart Superstore,185000000,210.0,19.2,0.0035,68.0,18,4,85,114.0,14,2.2,Medium (Perishable / Temperature Sensitive),3885.0,3139.0800000000004,745.9199999999996
+CAT_ELECTRONICS,Consumer Electronics & Tech,Reliance Digital / Jio Stores,5400000,11800.0,15.4,0.038,16.0,365,24,32,111.0,28,7.5,High (High Value / Secure Storage / White Glove),6372.0,5390.7119999999995,981.2880000000005
+CAT_FASHION,Fashion & Lifestyle,Reliance Trends / Trends Footwear / Azorte,38000000,1280.0,39.5,0.0075,42.0,180,21,64,116.0,32,3.8,Medium (Style/Size/SKU Proliferation),4864.0,2942.72,1921.2800000000002
+CAT_HPC,"Home, Health & Personal Care",Reliance Smart Point / General FMCG,94000000,285.0,24.8,0.0028,74.0,360,7,72,120.0,21,2.0,Low (Standardized Cartons / High Velocity),2679.0,2014.608,664.392
+CAT_PHARMA,Pharma & Wellness,Netmeds / Wellness Kiosks,18500000,540.0,27.5,0.0012,36.0,270,6,48,115.0,20,4.5,High (Cold Chain / Licensed Pharmacist Handover),999.0,724.275,274.725

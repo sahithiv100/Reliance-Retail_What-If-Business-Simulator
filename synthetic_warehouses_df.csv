@@ -1,0 +1,9 @@
+warehouse_name,region_id,storage_area_sqft,baseline_daily_throughput_units,maximum_rated_daily_units,utilization_baseline_pct,dock_doors_count,second_shift_ready,warehouse_handling_cost_per_unit_inr,rack_utilization_pct
+Bhiwandi Mega DC,REG_WEST,1450000,1550000,1850000,83.8,64,True,1.65,79.86192756764717
+Sanand Central DC,REG_WEST,1200000,1220000,1450000,84.1,48,True,1.7,86.32809476110086
+Farrukhnagar Logistics Park,REG_NORTH,1550000,1620000,1950000,83.1,72,True,1.68,80.84171192715905
+Dadri Inbound Terminal,REG_NORTH,1100000,1120000,1350000,83.0,44,True,1.75,79.29930044940944
+Hosur Bengaluru Hub,REG_SOUTH,1350000,1420000,1700000,83.5,56,True,1.66,83.43881975513187
+Shamshabad Hyderabad Mega Hub,REG_SOUTH,1250000,1280000,1550000,82.6,52,True,1.72,81.96737827089952
+Dankuni Kolkata Eastern Hub,REG_EAST,1050000,1020000,1250000,81.6,40,True,1.82,85.6383179450593
+Cuttack Regional Staging DC,REG_EAST,750000,680000,850000,80.0,28,True,1.88,85.46601177651442

@@ -1,0 +1,4 @@
+channel_id,channel_name,delivery_type,baseline_daily_drops,max_daily_drops_capacity,base_cost_per_drop_inr,on_time_sla_pct,co2_kg_per_drop,flexibility
+CH_OWNED_VAN,Dedicated Fleet (Electric & ICE Mid-Vans),Store B2B & Hyperlocal Hub Replenishment,680000,820000,82.0,97.6,0.45,Low (Fixed Lease / Capital Heavy)
+CH_HYPERLOCAL_2W,JioMart 2-Wheeler Express Couriers,D2C Direct-to-Consumer / Quick Commerce,440000,530000,46.0,96.1,0.18,Medium (Gig Rider Network)
+CH_3PL_PARTNERS,Contracted 3PL Logistics (Delhivery / BlueDart / XpressBees),Peak Surge Spillover & Tier-2/3 Long Haul,190000,450000,105.0,93.6,0.6,Very High (On-Demand Elastic Surge)

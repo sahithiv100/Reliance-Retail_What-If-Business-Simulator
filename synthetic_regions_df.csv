@@ -1,0 +1,5 @@
+region_id,region_name,volume_share_pct,stores_count,distribution_centers,warehouse_capacity_units_day,logistics_delivery_fleet_vans,logistics_2w_couriers,daily_delivery_cap_drops,headcount_store_associates,headcount_warehouse_staff,headcount_delivery_agents,avg_hourly_wage_inr,regional_demand_volatility_pct
+REG_NORTH,"North Zone (Delhi NCR, Punjab, UP, Haryana)",29.0,5250,26,3600000,6200,14500,340000,48000,12500,15200,145.0,6.8
+REG_WEST,"West Zone (Mumbai MMR, Pune, Gujarat, MP)",31.5,5780,30,3900000,6800,16200,380000,52500,13800,16800,156.0,5.4
+REG_SOUTH,"South Zone (Bengaluru, Hyderabad, Chennai, Kerala)",25.0,4650,24,3200000,5400,12800,310000,43000,11200,13500,150.0,5.9
+REG_EAST,"East & North-East Zone (Kolkata, Bihar, Odisha, Assam)",14.5,2850,16,2100000,3200,7600,180000,26500,6900,8200,134.0,8.0
